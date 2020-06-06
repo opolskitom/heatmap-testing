@@ -1,0 +1,22 @@
+{
+  "name": "2020crazymap",
+  "version": "1.0.0",
+  "description": "2020 be wildin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "2020",
+    "protests",
+    "twitter",
+    "heatmap",
+    "blm"
+  ],
+  "author": "Tom Opolski",
+  "license": "ISC",
+  "dependencies": {
+    "heatmap.js": "^2.0.5",
+    "leaflet.tilelayer.colorfilter": "^1.2.5"
+  }
+}
